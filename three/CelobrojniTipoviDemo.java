@@ -1,6 +1,6 @@
 package com.itacademija.three;
 
-public class CjelobrojniTipoviDemo {
+public class CelobrojniTipoviDemo {
     public static void main(String[] args) {
         byte firstNumber = 127;
         System.out.println("Deklarisao si varijablu = " + firstNumber);

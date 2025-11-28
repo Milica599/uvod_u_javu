@@ -26,6 +26,7 @@ public class SwitchDemo2 {
     public static void main(String[] args) {
         System.out.println("Unesite redni broj mjeseca:");
         int redniBrojMjeseca = new Scanner(System.in).nextInt();
+
         System.out.println("Unesite i godinu: ");
         int godina = new Scanner(System.in).nextInt();
         //Stil Java 12 yield( daj neki rezultat)
