@@ -17,7 +17,7 @@ Program izvrši operaciju korištenjem switch konstrukcije i kao rezultat primje
 dva broja navedenu operaciju.
   result = f(operator, broj1, broj2)
 
-Zadatak 4:pitaj!!!!!!!!
+Zadatak 4:pitaj!!! za HASHMAP
 Korisnik unosi ime države("Njemačka", "Francuska", "Italija", "Rumunija", "Rusija",
 "Kina", "Kongo"..)
 Program ispiše GLAVNI grad te države.

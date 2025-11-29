@@ -1,4 +1,6 @@
 Zadatak 1:
+resenja su u paketu 8
+
 Postavljen je neki tekst "Petar Pan je pojeo pet plavih šljiva".
 Program treba da izbroji koliko se puta karakter 'P' ili 'p' nalazi u rečenici.
 Program je case insensitive.
@@ -21,8 +23,10 @@ Riječ: "proz"
 
 Program treba da radi sljedeće:
 Potrebno je da provjerite da li je riječ sadržana u rečenici odnosno ne riječ nego niz karaktera.
-Nije dozvoljeno koristiti ni jednu funkciju koja postoji u String klasi. Morate konvertovati i riječ i rečenicu u niz i
+Nije dozvoljeno koristiti ni jednu funkciju koja postoji u String klasi. Morate konvertovati
+i riječ i rečenicu u niz i
 tako riješiti zadatak.
 
 HINT: ovdje mora biti case sensitive provjera, tj. 'p' nije isto što i 'P'
-Rezultat: niz karaktera u riječi je sadržan u rečenici ILI niz karaktera u riječi NIJE sadržan u rečenici.
+Rezultat: niz karaktera u riječi je sadržan u rečenici ILI niz karaktera
+u riječi NIJE sadržan u rečenici.
