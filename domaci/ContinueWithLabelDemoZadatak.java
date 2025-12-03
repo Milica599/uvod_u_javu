@@ -11,6 +11,7 @@ public class ContinueWithLabelDemoZadatak {
         int counter = 0;
         KRISTIJAN:
         for(int i = 0; i<nizSlovaRecenice.length; i++) {
+            // j=nizSlovaReci.length -1;
             for (int j = 0; j < nizSlovaRijeci.length; j++) {
                 //i = n
                 //j = 0 -> 1 -> 2
@@ -19,14 +20,9 @@ public class ContinueWithLabelDemoZadatak {
                 char slovoRiječi = nizSlovaRijeci[j];
                 if (slovoRiječi != slovoRečenice) {
                     continue KRISTIJAN;
-                }else if (j<nizSlovaRijeci.length/2){
-                    //uslov je ok samo za konkretan primer
-                    counter++;
                 }
-
             }
-            rijecSadrzana = true;
-            break;
+            counter++;
         }
         System.out.println(sentence);
         System.out.println(word);

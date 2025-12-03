@@ -7,4 +7,5 @@ moj prozor u svijet je livada na kojoj pada snijeg";
 Želimo da doradimo ContinueWithLabelDemo na način da izbrojimo koliko se puta
 riječ sadrži u rečenici.
 
-BONUS: analizirati nedostatke našeg rješenja ContinueWithLabelDemo
+BONUS: analizirati
+nedostatke našeg rješenja ContinueWithLabelDemo
