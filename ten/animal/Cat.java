@@ -1,8 +1,5 @@
-package com.itacademija.nine.oop;
+package com.itacademija.ten.animal;
 
-/**
- * OOP : abstraction,
- */
 public class Cat extends Animal{
     public Cat(String name) {
         super(name);
@@ -10,6 +7,6 @@ public class Cat extends Animal{
 
     @Override
     public void playSound() {
-
+        System.out.println("Mjau Mjau Mjau...");
     }
 }
